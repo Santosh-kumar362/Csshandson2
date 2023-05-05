@@ -1,0 +1,113 @@
+body{
+    border:8px solid greenyellow;
+    border-style:ridge;
+    background-image:url(./background.jpg);
+    background-size:cover;
+    margin:0px;
+    
+}
+.one{
+    height:100px;
+    border: 6px solid red;
+    background-color:black;
+    color:white;
+    font-family:'Roboto Slab', serif;
+    font-weight: bolder;
+    padding:20px;
+    margin:20px 960px 0px 30px;
+    border-radius: 30px;
+}
+.two{
+    border: 6px solid red;
+    background-color:black;
+    color:white;
+    font-family:'Roboto Slab', serif;
+    font-weight: bolder;
+    padding:20px;
+    border-radius:100px;
+    margin:-140px 650px 0px 250px;
+    
+}
+.three{
+    border: 6px solid red;
+    background-color:black;
+    color:white;
+    font-size:25px;
+    line-height: 28px;
+    font-family:'Roboto Slab', serif;
+    font-weight: bolder;
+    padding:30px;
+    border-radius:40px;
+    margin:-85px 30px 0px 880px;
+    }
+.four{   /* form css*/
+    border: 6px dashed red;
+    background-image:url(./white-wallpaper-hd.png);
+    background-size:cover;
+    color:rgb(216, 41, 41);
+    text-align:center;
+    font-size:larger;
+    font-weight:bolder;
+    padding:20px;
+    margin:70px 200px 0px 650px;
+}  
+hr{
+    border-top:2px solid rgb(248, 8, 48);
+    
+}
+.five{    /*circle*/
+    border:6px solid grey;
+    background-color:rgb(132, 154, 195);
+    color:navy;
+    font-family:'Roboto Slab', serif;
+    font-size: 28px;
+    text-align:center;
+    text-decoration:underline;
+    line-height: 25px;
+    padding:22px;
+    margin:-450px 0px 0px 30px;
+    width:350px;
+    height:350px;
+    border-radius:50%;
+}
+.six{     /* menu */
+    border: 6px solid red;
+    background-color:black;
+    color:white;
+    font-family:'Roboto Slab', serif;
+    font-size:35px;
+    font-weight: bolder;
+    padding:20px 290px 20px 200px;
+    border-radius:100px;
+    margin:90px 500px 0px 400px;
+}
+.list1 {/* starting list  /*circle*/
+   
+    height: 350px;
+    color:navy;
+    border-radius:20px;
+    margin: auto;
+    font-weight: bolder;
+    display:flex;
+   }
+   .list2 {   /* 2nd list parent cntainer */
+    height: 350px;
+    color:navy;
+    border-radius:20px;
+    margin: auto;
+    font-weight: bolder;
+    display:flex;
+    
+   }
+
+.list{ /* all lists are in this one*/
+    height:250px;
+    width:300px;
+    border:2px solid green;
+    background-color:rgb(222, 215, 33);
+    color:navy;
+    text-align:center;
+    border-radius:20px;
+    margin:auto;
+    }
+   
